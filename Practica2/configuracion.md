@@ -2,9 +2,13 @@
 
 # Caratula
 
-| Nombre | Carnet |
-| ------------- | ------------- |
-| Oscar Daniel Oliva España          | 201902663 |
+| Nombre | Carnet | Grupo |
+| ------------- | ------------- |---- |
+| Oscar Daniel Oliva España          | 201902663 |  15 |
+
+Grupo: 15  
+
+(15 + 6 + 3) = 24 = 4
 
 ![Captura](img/topo.png)
 ![Captura](img/ips.png)
